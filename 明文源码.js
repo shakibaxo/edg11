@@ -4,7 +4,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = '';
 let proxyIP = '';
 let sub = '';
-let subConverter = '5.39.254.2';
+let subConverter = '45.142.115.59';
 let subConfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini";
 let subProtocol = 'https';
 let subEmoji = 'true';
