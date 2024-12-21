@@ -4,7 +4,7 @@ import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = '516b9f23-ebea-4ea1-aeb9-40655c2ae7df';
+let userID = '8404f0de-d2df-433c-81db-46ada9010c35';
 
 let proxyIP = 'bpb.radically.pro';// 小白勿动，该地址并不影响你的网速，这是给CF代理使用的。'cdn.xn--b6gac.eu.org, cdn-all.xn--b6gac.eu.org, workers.cloudflare.cyou'
 
